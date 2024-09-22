@@ -1,4 +1,4 @@
-#Joel Villarreal's Project 2
+# Joel Villarreal's Project 2
 - This project involved minimizing distance from a function to a point, 
   utilizing Newton's Method for approximation
 - The function in question is y = x^2, and the point in question is (1, 0)
